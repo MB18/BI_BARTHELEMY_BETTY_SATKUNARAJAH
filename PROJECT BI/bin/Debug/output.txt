@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <stock benchID=""
+         benchmark=""  
+         id="" 
+         industry="" 
+         name="" 
+         sector="">
+    <zone zname="">
+      <country cname="" />
+    </zone>
+    <sector sname="">
+      <industry iname="" />
+    </sector>	
+    <prices>
+      <obs date="2011-03-18" price="100.0" priceBench="100.0" />
+      <obs date="2011-03-25" price="103.14323" priceBench="104.25592" />
+    </prices>
+    <indicators>
+      <indicator alpha="" beta="" perf="" period="3M" vol="" />
+      <indicator alpha="" beta="" perf="" period="6M" vol="" />
+      <indicator alpha="" beta="" perf="" period="1Y" vol="" />
+    </indicators>
+    <trackingError te="" />
+    <informationRatio ir="" />
+  </stock>
+</data>
+

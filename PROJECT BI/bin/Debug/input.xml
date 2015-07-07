@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<input startdate="2008-01-07">
+
+  <stock benchID="^FCHI" 
+         benchmark="CAC 40" 
+         country="FRANCE" 
+         id="BNP.PA" 
+         industry="Money Center Banks" 
+         name="BNP PARIBAS" 
+         sector="Financial" 
+         zone="EUROPE" />  
+
+  <stock benchID="^FCHI" 
+         benchmark="CAC 40" 
+         country="FRANCE" 
+         id="ACA.PA" 
+         industry="Money Center Banks" 
+         name="CREDIT AGRICOLE SA" 
+         sector="Financial" 
+         zone="EUROPE" />  
+
+  <stock benchID="^FCHI" 
+         benchmark="CAC 40" 
+         country="FRANCE" 
+         id="VIV.PA" 
+         industry="Wireless Communications" 
+         name="VIVENDI" 
+         sector="Technology" 
+         zone="EUROPE" />  
+
+  <stock benchID="^IXIC" 
+         benchmark="NASDAQ" 
+         country="USA" 
+         id="GOOGL" 
+         industry="Internet Information Providers" 
+         name="GOOGLE" 
+         sector="Technology" 
+         zone="NORTH AMERICA" />  
+
+  <stock benchID="^FCHI" 
+         benchmark="CAC 40" 
+         country="FRANCE" 
+         id="OR.PA" 
+         industry="Personal Products" 
+         name="L'OREAL SA" 
+         sector="Consumer Goods" 
+         zone="EUROPE" />  
+
+</input>

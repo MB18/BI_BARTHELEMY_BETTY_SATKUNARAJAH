@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<classifications>
+  <sectors>
+    <sector sid="1" name="Basic Materials">
+      <industry iid="112" name="Agricultural Chemicals"/>
+      <industry iid="132" name="Aluminum"/>
+      <industry iid="110" name="Chemicals - Major Diversified"/>
+      <industry iid="131" name="Copper"/>
+      <industry iid="134" name="Gold"/>
+      <industry iid="121" name="Independent Oil &amp; Gas"/>
+      <industry iid="133" name="Industrial Metals &amp; Minerals"/>
+      <industry iid="120" name="Major Integrated Oil &amp; Gas"/>
+      <industry iid="136" name="Nonmetallic Mineral Mining"/>
+      <industry iid="123" name="Oil &amp; Gas Drilling &amp; Exploration"/>
+      <industry iid="124" name="Oil &amp; Gas Equipment &amp; Services"/>
+      <industry iid="125" name="Oil &amp; Gas Pipelines"/>
+      <industry iid="122" name="Oil &amp; Gas Refining &amp; Marketing"/>
+      <industry iid="135" name="Silver"/>
+      <industry iid="113" name="Specialty Chemicals"/>
+      <industry iid="130" name="Steel &amp; Iron"/>
+      <industry iid="111" name="Synthetics"/>
+    </sector>
+    <sector sid="2" name="Conglomerates">
+      <industry iid="210" name="Conglomerates"/>
+    </sector>
+    <sector sid="3" name="Consumer Goods">
+      <industry iid="310" name="Appliances"/>
+      <industry iid="330" name="Auto Manufacturers - Major"/>
+      <industry iid="333" name="Auto Parts"/>
+      <industry iid="346" name="Beverages - Brewers"/>
+      <industry iid="348" name="Beverages - Soft Drinks"/>
+      <industry iid="347" name="Beverages - Wineries &amp; Distillers"/>
+      <industry iid="313" name="Business Equipment"/>
+      <industry iid="350" name="Cigarettes"/>
+      <industry iid="326" name="Cleaning Products"/>
+      <industry iid="345" name="Confectioners"/>
+      <industry iid="344" name="Dairy Products"/>
+      <industry iid="314" name="Electronic Equipment"/>
+      <industry iid="341" name="Farm Products"/>
+      <industry iid="340" name="Food - Major Diversified"/>
+      <industry iid="311" name="Home Furnishings &amp; Fixtures"/>
+      <industry iid="312" name="Housewares &amp; Accessories"/>
+      <industry iid="343" name="Meat Products"/>
+      <industry iid="327" name="Office Supplies"/>
+      <industry iid="325" name="Packaging &amp; Containers"/>
+      <industry iid="324" name="Paper &amp; Paper Products"/>
+      <industry iid="323" name="Personal Products"/>
+      <industry iid="318" name="Photographic Equipment &amp; Supplies"/>
+      <industry iid="342" name="Processed &amp; Packaged Goods"/>
+      <industry iid="317" name="Recreational Goods, Other"/>
+      <industry iid="332" name="Recreational Vehicles"/>
+      <industry iid="322" name="Rubber &amp; Plastics"/>
+      <industry iid="316" name="Sporting Goods"/>
+      <industry iid="320" name="Textile - Apparel Clothing"/>
+      <industry iid="321" name="Textile - Apparel Footwear &amp; Accessories"/>
+      <industry iid="351" name="Tobacco Products, Other"/>
+      <industry iid="315" name="Toys &amp; Games"/>
+      <industry iid="331" name="Trucks &amp; Other Vehicles"/>
+    </sector>
+    <sector sid="4" name="Financial">
+      <industry iid="431" name="Accident &amp; Health Insurance"/>
+      <industry iid="422" name="Asset Management"/>
+      <industry iid="425" name="Closed-End Fund - Debt"/>
+      <industry iid="426" name="Closed-End Fund - Equity"/>
+      <industry iid="427" name="Closed-End Fund - Foreign"/>
+      <industry iid="424" name="Credit Services"/>
+      <industry iid="423" name="Diversified Investments"/>
+      <industry iid="417" name="Foreign Money Center Banks"/>
+      <industry iid="418" name="Foreign Regional Banks"/>
+      <industry iid="434" name="Insurance Brokers"/>
+      <industry iid="420" name="Investment Brokerage - National"/>
+      <industry iid="421" name="Investment Brokerage - Regional"/>
+      <industry iid="430" name="Life Insurance"/>
+      <industry iid="410" name="Money Center Banks"/>
+      <industry iid="447" name="Mortgage Investment"/>
+      <industry iid="432" name="Property &amp; Casualty Insurance"/>
+      <industry iid="448" name="Property Management"/>
+      <industry iid="440" name="REIT - Diversified"/>
+      <industry iid="442" name="REIT - Healthcare Facilities"/>
+      <industry iid="443" name="REIT - Hotel/Motel"/>
+      <industry iid="444" name="REIT - Industrial"/>
+      <industry iid="441" name="REIT - Office"/>
+      <industry iid="445" name="REIT - Residential"/>
+      <industry iid="446" name="REIT - Retail"/>
+      <industry iid="449" name="Real Estate Development"/>
+      <industry iid="412" name="Regional - Mid-Atlantic Banks"/>
+      <industry iid="414" name="Regional - Midwest Banks"/>
+      <industry iid="411" name="Regional - Northeast Banks"/>
+      <industry iid="416" name="Regional - Pacific Banks"/>
+      <industry iid="413" name="Regional - Southeast Banks"/>
+      <industry iid="415" name="Regional - Southwest Banks"/>
+      <industry iid="419" name="Savings &amp; Loans"/>
+      <industry iid="433" name="Surety &amp; Title Insurance"/>
+    </sector>
+    <sector sid="5" name="Healthcare">
+      <industry iid="515" name="Biotechnology"/>
+      <industry iid="516" name="Diagnostic Substances"/>
+      <industry iid="513" name="Drug Delivery"/>
+      <industry iid="510" name="Drug Manufacturers - Major"/>
+      <industry iid="511" name="Drug Manufacturers - Other"/>
+      <industry iid="514" name="Drug Related Products"/>
+      <industry iid="512" name="Drugs - Generic"/>
+      <industry iid="522" name="Health Care Plans"/>
+      <industry iid="526" name="Home Health Care"/>
+      <industry iid="524" name="Hospitals"/>
+      <industry iid="523" name="Long-Term Care Facilities"/>
+      <industry iid="521" name="Medical Appliances &amp; Equipment"/>
+      <industry iid="520" name="Medical Instruments &amp; Supplies"/>
+      <industry iid="525" name="Medical Laboratories &amp; Research"/>
+      <industry iid="527" name="Medical Practitioners"/>
+      <industry iid="528" name="Specialized Health Services"/>
+    </sector>
+    <sector sid="6" name="Industrial Goods">
+      <industry iid="610" name="Aerospace/Defense - Major Diversified"/>
+      <industry iid="611" name="Aerospace/Defense Products &amp; Services"/>
+      <industry iid="633" name="Cement"/>
+      <industry iid="622" name="Diversified Machinery"/>
+      <industry iid="620" name="Farm &amp; Construction Machinery"/>
+      <industry iid="634" name="General Building Materials"/>
+      <industry iid="636" name="General Contractors"/>
+      <industry iid="635" name="Heavy Construction"/>
+      <industry iid="627" name="Industrial Electrical Equipment"/>
+      <industry iid="621" name="Industrial Equipment &amp; Components"/>
+      <industry iid="632" name="Lumber, Wood Production"/>
+      <industry iid="624" name="Machine Tools &amp; Accessories"/>
+      <industry iid="631" name="Manufactured Housing"/>
+      <industry iid="626" name="Metal Fabrication"/>
+      <industry iid="623" name="Pollution &amp; Treatment Controls"/>
+      <industry iid="630" name="Residential Construction"/>
+      <industry iid="625" name="Small Tools &amp; Accessories"/>
+      <industry iid="628" name="Textile Industrial"/>
+      <industry iid="637" name="Waste Management"/>
+    </sector>
+    <sector sid="7" name="Services">
+      <industry iid="720" name="Advertising Agencies"/>
+      <industry iid="773" name="Air Delivery &amp; Freight Services"/>
+      <industry iid="772" name="Air Services, Other"/>
+      <industry iid="730" name="Apparel Stores"/>
+      <industry iid="744" name="Auto Dealerships"/>
+      <industry iid="738" name="Auto Parts Stores"/>
+      <industry iid="750" name="Auto Parts Wholesale"/>
+      <industry iid="758" name="Basic Materials Wholesale"/>
+      <industry iid="724" name="Broadcasting - Radio"/>
+      <industry iid="723" name="Broadcasting - TV"/>
+      <industry iid="751" name="Building Materials Wholesale"/>
+      <industry iid="760" name="Business Services"/>
+      <industry iid="725" name="CATV Systems"/>
+      <industry iid="739" name="Catalog &amp; Mail Order Houses"/>
+      <industry iid="755" name="Computers Wholesale"/>
+      <industry iid="763" name="Consumer Services"/>
+      <industry iid="731" name="Department Stores"/>
+      <industry iid="732" name="Discount, Variety Stores"/>
+      <industry iid="733" name="Drug Stores"/>
+      <industry iid="756" name="Drugs Wholesale"/>
+      <industry iid="766" name="Education &amp; Training Services"/>
+      <industry iid="735" name="Electronics Stores"/>
+      <industry iid="753" name="Electronics Wholesale"/>
+      <industry iid="722" name="Entertainment - Diversified"/>
+      <industry iid="757" name="Food Wholesale"/>
+      <industry iid="714" name="Gaming Activities"/>
+      <industry iid="716" name="General Entertainment"/>
+      <industry iid="734" name="Grocery Stores"/>
+      <industry iid="737" name="Home Furnishing Stores"/>
+      <industry iid="736" name="Home Improvement Stores"/>
+      <industry iid="752" name="Industrial Equipment Wholesale"/>
+      <industry iid="742" name="Jewelry Stores"/>
+      <industry iid="710" name="Lodging"/>
+      <industry iid="770" name="Major Airlines"/>
+      <industry iid="769" name="Management Services"/>
+      <industry iid="721" name="Marketing Services"/>
+      <industry iid="754" name="Medical Equipment Wholesale"/>
+      <industry iid="726" name="Movie Production, Theaters"/>
+      <industry iid="743" name="Music &amp; Video Stores"/>
+      <industry iid="762" name="Personal Services"/>
+      <industry iid="729" name="Publishing - Books"/>
+      <industry iid="727" name="Publishing - Newspapers"/>
+      <industry iid="728" name="Publishing - Periodicals"/>
+      <industry iid="776" name="Railroads"/>
+      <industry iid="771" name="Regional Airlines"/>
+      <industry iid="761" name="Rental &amp; Leasing Services"/>
+      <industry iid="768" name="Research Services"/>
+      <industry iid="711" name="Resorts &amp; Casinos"/>
+      <industry iid="712" name="Restaurants"/>
+      <industry iid="765" name="Security &amp; Protection Services"/>
+      <industry iid="775" name="Shipping"/>
+      <industry iid="713" name="Specialty Eateries"/>
+      <industry iid="745" name="Specialty Retail, Other"/>
+      <industry iid="715" name="Sporting Activities"/>
+      <industry iid="740" name="Sporting Goods Stores"/>
+      <industry iid="764" name="Staffing &amp; Outsourcing Services"/>
+      <industry iid="767" name="Technical Services"/>
+      <industry iid="741" name="Toy &amp; Hobby Stores"/>
+      <industry iid="774" name="Trucking"/>
+      <industry iid="759" name="Wholesale, Other"/>
+    </sector>
+    <sector sid="8" name="Technology">
+      <industry iid="821" name="Application Software"/>
+      <industry iid="826" name="Business Software &amp; Services"/>
+      <industry iid="841" name="Communication Equipment"/>
+      <industry iid="812" name="Computer Based Systems"/>
+      <industry iid="815" name="Computer Peripherals"/>
+      <industry iid="813" name="Data Storage Devices"/>
+      <industry iid="846" name="Diversified Communication Services"/>
+      <industry iid="810" name="Diversified Computer Systems"/>
+      <industry iid="836" name="Diversified Electronics"/>
+      <industry iid="825" name="Healthcare Information Services"/>
+      <industry iid="827" name="Information &amp; Delivery Services"/>
+      <industry iid="824" name="Information Technology Services"/>
+      <industry iid="851" name="Internet Information Providers"/>
+      <industry iid="850" name="Internet Service Providers"/>
+      <industry iid="852" name="Internet Software &amp; Services"/>
+      <industry iid="843" name="Long Distance Carriers"/>
+      <industry iid="820" name="Multimedia &amp; Graphics Software"/>
+      <industry iid="814" name="Networking &amp; Communication Devices"/>
+      <industry iid="811" name="Personal Computers"/>
+      <industry iid="835" name="Printed Circuit Boards"/>
+      <industry iid="842" name="Processing Systems &amp; Products"/>
+      <industry iid="837" name="Scientific &amp; Technical Instruments"/>
+      <industry iid="823" name="Security Software &amp; Services"/>
+      <industry iid="830" name="Semiconductor - Broad Line"/>
+      <industry iid="833" name="Semiconductor - Integrated Circuits"/>
+      <industry iid="832" name="Semiconductor - Specialized"/>
+      <industry iid="834" name="Semiconductor Equipment &amp; Materials"/>
+      <industry iid="831" name="Semiconductor- Memory Chips"/>
+      <industry iid="822" name="Technical &amp; System Software"/>
+      <industry iid="844" name="Telecom Services - Domestic"/>
+      <industry iid="845" name="Telecom Services - Foreign"/>
+      <industry iid="840" name="Wireless Communications"/>
+    </sector>
+    <sector sid="9" name="Utilities">
+      <industry iid="913" name="Diversified Utilities"/>
+      <industry iid="911" name="Electric Utilities"/>
+      <industry iid="910" name="Foreign Utilities"/>
+      <industry iid="912" name="Gas Utilities"/>
+      <industry iid="914" name="Water Utilities"/>
+    </sector>
+  </sectors>
+  <zones>
+    <zone name="NORTH AMERICA" />
+    <zone name="SOUTH AMERICA" />
+    <zone name="WESTERN EUROPE" />
+    <zone name="EASTERN EUROPE" />
+    <zone name="EUROPE" />
+    <zone name="AFRICA" />
+    <zone name="ASIA" />
+    <zone name="SOUTH ASIA" />    
+  </zones>
+  <countries>
+    <country name="FRANCE"/>
+    <country name="ENGLAND"/>
+  </countries>
+</classifications>

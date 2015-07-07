@@ -1,0 +1,44 @@
+c:\users\lambda\documents\visual studio 2010\Projects\PROJECT BI\PROJECT BI\bin\Debug\PROJECT BI.exe
+c:\users\lambda\documents\visual studio 2010\Projects\PROJECT BI\PROJECT BI\bin\Debug\PROJECT BI.pdb
+c:\users\lambda\documents\visual studio 2010\Projects\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT_BI.Properties.Resources.resources
+c:\users\lambda\documents\visual studio 2010\Projects\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT BI.csproj.GenerateResource.Cache
+c:\users\lambda\documents\visual studio 2010\Projects\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT BI.exe
+c:\users\lambda\documents\visual studio 2010\Projects\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT BI.pdb
+H:\BI\PROJECT BI\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT BI.exe
+H:\BI\PROJECT BI\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT BI.pdb
+H:\BI\PROJECT BI\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT_BI.Properties.Resources.resources
+H:\BI\PROJECT BI\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT BI.csproj.GenerateResource.Cache
+H:\BI\PROJECT BI\PROJECT BI\PROJECT BI\bin\Debug\PROJECT BI.exe
+H:\BI\PROJECT BI\PROJECT BI\PROJECT BI\bin\Debug\PROJECT BI.pdb
+C:\Users\Maxime\Desktop\Maxime\cours\M2\projets\Projet BI\BI\PROJECT BI\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT BI.exe
+C:\Users\Maxime\Desktop\Maxime\cours\M2\projets\Projet BI\BI\PROJECT BI\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT BI.pdb
+C:\Users\Maxime\Desktop\Maxime\cours\M2\projets\Projet BI\BI\PROJECT BI\PROJECT BI\PROJECT BI\bin\Debug\PROJECT BI.exe
+C:\Users\Maxime\Desktop\Maxime\cours\M2\projets\Projet BI\BI\PROJECT BI\PROJECT BI\PROJECT BI\bin\Debug\PROJECT BI.pdb
+C:\Users\Maxime\Desktop\Maxime\cours\M2\projets\Projet BI\BI\PROJECT BI\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT_BI.Properties.Resources.resources
+C:\Users\Maxime\Desktop\Maxime\cours\M2\projets\Projet BI\BI\PROJECT BI\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT BI.csproj.GenerateResource.Cache
+C:\Users\Maxime\Desktop\Maxime\cours\M2\projets\Projet BI\BI\PROJECT BI\PROJECT BI\PROJECT BI\obj\x86\Debug\PROJECT BI.csprojResolveAssemblyReference.cache
+H:\BI\PROJECT BI\obj\x86\Debug\PROJECT BI.exe
+H:\BI\PROJECT BI\obj\x86\Debug\PROJECT BI.pdb
+H:\BI\PROJECT BI\bin\Debug\PROJECT BI.exe
+H:\BI\PROJECT BI\bin\Debug\PROJECT BI.pdb
+H:\BI\PROJECT BI\obj\x86\Debug\PROJECT BI.csprojResolveAssemblyReference.cache
+H:\BI\PROJECT BI\obj\x86\Debug\PROJECT_BI.Properties.Resources.resources
+H:\BI\PROJECT BI\obj\x86\Debug\PROJECT BI.csproj.GenerateResource.Cache
+E:\MAXIME\cours\BI\PROJECT BI\obj\x86\Debug\PROJECT BI.exe
+E:\MAXIME\cours\BI\PROJECT BI\obj\x86\Debug\PROJECT BI.pdb
+E:\MAXIME\cours\BI\PROJECT BI\obj\x86\Debug\PROJECT_BI.Properties.Resources.resources
+E:\MAXIME\cours\BI\PROJECT BI\obj\x86\Debug\PROJECT BI.csproj.GenerateResource.Cache
+E:\MAXIME\cours\BI\PROJECT BI\bin\Debug\PROJECT BI.exe
+E:\MAXIME\cours\BI\PROJECT BI\bin\Debug\PROJECT BI.pdb
+C:\Users\Maxime\Desktop\Nouveau dossier\PROJECT BI\obj\x86\Debug\PROJECT BI.exe
+C:\Users\Maxime\Desktop\Nouveau dossier\PROJECT BI\obj\x86\Debug\PROJECT BI.pdb
+C:\Users\Maxime\Desktop\Nouveau dossier\PROJECT BI\bin\Debug\PROJECT BI.exe
+C:\Users\Maxime\Desktop\Nouveau dossier\PROJECT BI\bin\Debug\PROJECT BI.pdb
+C:\Users\Maxime\Desktop\Nouveau dossier\PROJECT BI\obj\x86\Debug\PROJECT_BI.Properties.Resources.resources
+C:\Users\Maxime\Desktop\Nouveau dossier\PROJECT BI\obj\x86\Debug\PROJECT BI.csproj.GenerateResource.Cache
+H:\Nouveau dossier\PROJECT BI\obj\x86\Debug\PROJECT BI.exe
+H:\Nouveau dossier\PROJECT BI\obj\x86\Debug\PROJECT BI.pdb
+H:\Nouveau dossier\PROJECT BI\bin\Debug\PROJECT BI.exe
+H:\Nouveau dossier\PROJECT BI\bin\Debug\PROJECT BI.pdb
+H:\Nouveau dossier\PROJECT BI\obj\x86\Debug\PROJECT_BI.Properties.Resources.resources
+H:\Nouveau dossier\PROJECT BI\obj\x86\Debug\PROJECT BI.csproj.GenerateResource.Cache
