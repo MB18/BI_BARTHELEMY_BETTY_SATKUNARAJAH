@@ -283,7 +283,7 @@ namespace PROJECT_BI
             
             output += '\n' + "</data>";
             String output2 = output.Replace(',', '.');
-            System.IO.File.WriteAllText(OUTPUT_FILE_NAME, output2);
+            System.IO.File.WriteAllText(OUTPUT_FILE_NAME, output);
         }
         
         private void initDates(string startdate)

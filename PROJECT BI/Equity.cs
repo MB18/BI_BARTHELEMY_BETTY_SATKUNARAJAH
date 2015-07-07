@@ -88,10 +88,10 @@ namespace PROJECT_BI
             datesAndValuation.Add(start,0);
             string url = UrlBuilder(start, end);
             string fileName = name + ".csv";
-           // WebClient webClient = new WebClient();
-            //webClient.DownloadFile(url, fileName);
-            //return File.Exists(fileName);
-            return true;
+            WebClient webClient = new WebClient();
+            webClient.DownloadFile(url, fileName);
+            return File.Exists(fileName);
+            //return true;
         }
         private void ReadExcelFile()
         {
