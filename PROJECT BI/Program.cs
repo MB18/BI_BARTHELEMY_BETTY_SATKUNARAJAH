@@ -12,7 +12,7 @@ namespace PROJECT_BI
 
 
         public static string INPUT_FILE_NAME="input.xml";
-        public static string OUTPUT_FILE_NAME="output.xml";
+        public static string OUTPUT_FILE_NAME="outputMaxime.xml";
         private List<Equity> equities;
 
         private string input;

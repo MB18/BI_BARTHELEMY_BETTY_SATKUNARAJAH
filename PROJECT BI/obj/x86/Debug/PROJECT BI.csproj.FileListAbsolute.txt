@@ -43,3 +43,10 @@ H:\Nouveau dossier\PROJECT BI\bin\Debug\PROJECT BI.pdb
 H:\Nouveau dossier\PROJECT BI\obj\x86\Debug\PROJECT_BI.Properties.Resources.resources
 H:\Nouveau dossier\PROJECT BI\obj\x86\Debug\PROJECT BI.csproj.GenerateResource.Cache
 C:\Users\Maxime\Desktop\Nouveau dossier\PROJECT BI\obj\x86\Debug\PROJECT BI.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\GitHub\BI_BARTHELEMY_BETTY_SATKUNARAJAH\PROJECT BI\obj\x86\Debug\PROJECT BI.exe
+C:\Users\Maxime\Documents\GitHub\BI_BARTHELEMY_BETTY_SATKUNARAJAH\PROJECT BI\obj\x86\Debug\PROJECT BI.pdb
+C:\Users\Maxime\Documents\GitHub\BI_BARTHELEMY_BETTY_SATKUNARAJAH\PROJECT BI\bin\Debug\PROJECT BI.exe
+C:\Users\Maxime\Documents\GitHub\BI_BARTHELEMY_BETTY_SATKUNARAJAH\PROJECT BI\bin\Debug\PROJECT BI.pdb
+C:\Users\Maxime\Documents\GitHub\BI_BARTHELEMY_BETTY_SATKUNARAJAH\PROJECT BI\obj\x86\Debug\PROJECT BI.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\GitHub\BI_BARTHELEMY_BETTY_SATKUNARAJAH\PROJECT BI\obj\x86\Debug\PROJECT_BI.Properties.Resources.resources
+C:\Users\Maxime\Documents\GitHub\BI_BARTHELEMY_BETTY_SATKUNARAJAH\PROJECT BI\obj\x86\Debug\PROJECT BI.csproj.GenerateResource.Cache
